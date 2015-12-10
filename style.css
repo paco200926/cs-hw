@@ -80,3 +80,33 @@
 .bch:hover{
 	opacity: 1.0;
 }
+.AH {
+	font-family: arial;
+	font-size: 40px;
+}
+.AHlink{
+	font-style: italic;
+}
+.AHd{
+	font-size: 200%;
+}
+.AHP{
+	height: 600px;
+	margin: auto;
+}
+.AHQ{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.AHQ1{
+	height: 450px;
+}
+.AHq{
+	margin: auto;
+}
+.AHP2{
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
