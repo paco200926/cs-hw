@@ -36,3 +36,47 @@
 	margin: auto;
 	text-align: center;
 }
+.mah {
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+}
+.buh {
+	margin: auto;
+	text-align: center;
+	opacity: 0.4; 
+}
+.buh:hover {
+	opacity: 1.0;
+}
+.mer{
+	margin: auto;
+	text-align: center;
+	opacity: 0.4; 
+}
+.mer:hover{
+	opacity: 1.0;
+}
+.fuu{
+	margin: auto;
+	text-align: center;
+	opacity: 0.4; 
+}
+.fuu:hover{
+	opacity: 1.0;
+}
+.you{
+		margin: auto;
+	text-align: center;
+	opacity: 0.4; 
+}
+.you:hover{
+	opacity: 1.0;
+}
+.bch{
+		margin: auto;
+	text-align: center;
+	opacity: 0.4; 
+}
+.bch:hover{
+	opacity: 1.0;
+}
